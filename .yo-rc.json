@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.braude.garage"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "garage",
+    "packageName": "com.braude.garage",
+    "packageFolder": "com/braude/garage",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzM4Y2JmZTcyN2EyZjkyNWFhMTIyYzJlODAwOGJjNGYxNThiZTgxMjY2ZTU3YjkwZjllNDc1MGI1NDBlMzg0NzkwMmRkNzZmOGJmZWJmNTQyNGZhNjg0YmUzYjQxNjBlMzAxNjk3YzQ3MGEzNDhkZjc2NTkxMzIwOTA3Y2YyMTY=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
