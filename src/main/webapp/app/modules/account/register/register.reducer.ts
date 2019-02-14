@@ -49,7 +49,7 @@ export const handleRegister = (login, email, password, langKey = 'en') => ({
   type: ACTION_TYPES.CREATE_ACCOUNT,
   payload: axios.post('api/register', { login, email, password, langKey }),
   meta: {
-    successMessage: '<strong>Registration saved!</strong> Please check your email for confirmation.'
+    successMessage: '<strong>Registration saved!</strong>'
   }
 });
 

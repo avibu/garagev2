@@ -38,7 +38,7 @@ export class Home extends React.Component<IHomeProp> {
                 </Link>
                 , you can try the default accounts:
                 <br />- Administrator (login=&quot;admin&quot; and password=&quot;admin&quot;)
-                <br />- User (login=&quot;user&quot; and password=&quot;user&quot;).
+                <br />- Garage worker (login=&quot;user&quot; and password=&quot;user&quot;).
               </Alert>
 
               <Alert color="warning">
