@@ -4,7 +4,7 @@ Main page styles
 .hipster {
   display: inline-block;
   width: 100%;
-  height: 497px;
-  background: url('../../../static/images/jhipster_family_member_1.svg') no-repeat center top;
+  height: 300px;
+  background: url('../../../static/images/garage.svg') no-repeat center top;
   background-size: contain;
 }
